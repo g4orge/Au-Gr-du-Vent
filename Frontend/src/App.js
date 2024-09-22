@@ -11,11 +11,11 @@ function App() {
   return (
     <Router>
     <div className="App">
-      <h1>Au-gr-du-vent Attendance managment page</h1>
+      <h1>Au-gr-du-vent</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Good morning, welcome to the Au-gr-du-vent attendance managment page.
+          Good morning, welcome to the Au-gr-du-vent.
         </p>
         <LoginPage />{/* This is the login form */}
         <a
